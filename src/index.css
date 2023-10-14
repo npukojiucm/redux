@@ -1,0 +1,38 @@
+
+
+form input {
+    margin-right: 10px;
+    font-size: 18px;
+    padding: 5px;
+}
+
+form button {
+    font-size: 16px;
+    height: 35px;
+    width: 70px;
+}
+
+form .btn-cancel,
+.btn-delete {
+    margin-left: 10px;
+
+}
+
+.hide-btn {
+    display: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li button {
+    font-size: 16px;
+    height: 25px;
+    width: 70px;
+}
+
+span {
+    font-size: 20px;
+    margin-right: 10px;
+}
